@@ -59,7 +59,13 @@ public class ProgramacionEstructurada
         //ParImpar.ParImpar();
         //Boliche.Puntuacion();
        //NumerosPerfectos.ImprimeCienPerfectos();
-
+        //Fracciones.MenosMas();
+        //Cambio.Maquina();
+        //DivisibleNueve.DivisibleNueve();
+         //Naturales30.QVC();
+        //PotenciaTresImplementaciones.CalculaPotencia();
     }
 }
+
+   
 
