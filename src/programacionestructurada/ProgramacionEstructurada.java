@@ -64,6 +64,9 @@ public class ProgramacionEstructurada
         //DivisibleNueve.DivisibleNueve();
          //Naturales30.QVC();
         //PotenciaTresImplementaciones.CalculaPotencia();
+        //Monedas.CambioMonedas();
+        //SumaImpares.Impar();
+        MCD.MCD();
     }
 }
 
