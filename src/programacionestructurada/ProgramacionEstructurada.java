@@ -4,6 +4,7 @@ import Fechas.*;
 import ProgramaEntradaSalida.*;
 import ProgramasQueIteran.*;
 import ProgramasVariosCaminos.*;
+import ProgramasConjuntoDeDatos.*;
 
 import java.util.Scanner;
 
@@ -51,24 +52,43 @@ public class ProgramacionEstructurada
         //NumeroCero.Numeros (args); 
         //Multiplo5.CincoAN();
         //CuboCuadrado.CuboCuadrado();
- //BuscaCaracter.ALaCazaDelCaracter();
-//double e = CalculaE.CalulaE();
-        //System.out.println("E es:" + e);
+        //BuscaCaracter.ALaCazaDelCaracter();
+        //double e = CalculaE.CalulaE();
+            //System.out.println("E es:" + e);
         //Invertido.Invertido();
         //Fibonacci.main(args);
         //ParImpar.ParImpar();
         //Boliche.Puntuacion();
        //NumerosPerfectos.ImprimeCienPerfectos();
-        //Fracciones.MenosMas();
+         //NumeroBueno.SumaFactoresPrimos(0);
+        //SerieFracciones.MenosMas();
         //Cambio.Maquina();
-        //DivisibleNueve.DivisibleNueve();
-         //Naturales30.QVC();
+        //Naturales30.QVC();
         //PotenciaTresImplementaciones.CalculaPotencia();
-        //Monedas.CambioMonedas();
+//Div9.DivisibleNueve();
+        //EXAMEN2.CalulaE();
+        //Pitagorico.HCACB();
         //SumaImpares.Impar();
-        MCD.MCD();
+        //MCD.MCD();
+        //Monedas.CambioMonedas();
+   /*  BuscaEnArreglo bea = new BuscaEnArreglo();
+        bea.LlenaArreglo();
+        int posicion;
+        if((posicion = bea.BuscaArreglo())!= -1)
+            System.out.println("Encontró al elemento en la posicion: "+ posicion);
+        else
+            System.out.println("No encontró al elemento");*/
+/* System.out.println("Dame texto para encriptar");
+        String Texto = entradaTeclado.nextLine();
+        String TextoEncriptado= CriptografiaCesar.Encripta(Texto);
+        System.out.println("Ese texto con encriptación Cesar es: " +TextoEncriptado);
+        String TextoOriginal = CriptografiaCesar.Desencripta(TextoEncriptado);
+        System.out.println("El texto desencriptado es: "+TextoOriginal);*/
+        numMinusculas.minusculas();
+        
+    
+
+
     }
 }
-
-   
 
