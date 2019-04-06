@@ -18,9 +18,7 @@ public class numMinusculas
             if (cadenaArray[i] >= 'a' && cadenaArray[i]<= 'z')
                 Mi++;
             else if (cadenaArray[i] >= 'A' && cadenaArray[i]<= 'Z')
-                Ma++;
-                    
-                
+                Ma++;        
         }
         System.out.println("Hay " + Mi+ " minusculas");
         System.out.println("Hay " + Ma+ " mayusculas");
