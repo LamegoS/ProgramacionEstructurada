@@ -11,7 +11,7 @@ public class numMinusculas
         int Ma=0, Mi=0;
         System.out.println("Introduce una cadena: ");
         cadena = entradaTeclado.nextLine();
-        //la siguiente línea convierte el String Char a Char Array para que peuda analizar los datos uno a uno
+        //la siguiente línea convierte el String Char a Char Array para que pueda analizar los datos uno a uno
         char[] cadenaArray = cadena.toCharArray();
 
         for (int i = 0; i < cadena.length(); i++)  
