@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Grande12Vector 
 {
     private int [] numerosInt;
-    public  void Grande12()
+    public void Grande12()
     {
         Scanner entradaTeclado = new Scanner(System.in);   
         numerosInt= new int [10];
